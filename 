@@ -1,0 +1,62 @@
+[33mcommit c38b6d1235b943f6d5ed969b422055b281a957d6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: HoHyun95 <suhoh01@naver.com>
+Date:   Tue Jan 11 14:51:52 2022 +0900
+
+    SHHcontroller add
+
+[33mcommit fcbc6c021b828faa738a790d3b257666c781aee1[m
+Merge: e5aafcd 44f7f87
+Author: HoHyun95 <95578140+HoHyun95@users.noreply.github.com>
+Date:   Tue Jan 11 14:09:23 2022 +0900
+
+    Merge pull request #1 from knm8643/master
+    
+    이충재 커밋요청 확인
+
+[33mcommit e5aafcd00392ed1c7e7d4977a7fe5ea7a50097aa[m
+Merge: e4d936a fc9e606
+Author: HoHyun95 <95578140+HoHyun95@users.noreply.github.com>
+Date:   Tue Jan 11 14:09:15 2022 +0900
+
+    Merge pull request #2 from 11hertz/master
+    
+    STJ Controller Added
+
+[33mcommit e4d936a7ad219fca61a76edc38b876f1fe412358[m
+Merge: 97877ee b540031
+Author: HoHyun95 <95578140+HoHyun95@users.noreply.github.com>
+Date:   Tue Jan 11 14:09:07 2022 +0900
+
+    Merge pull request #3 from Jpvep/master
+    
+    JGH Controller Added
+
+[33mcommit 44f7f87ea56de8f74366302aaef17ec2d2c6f4b6[m
+Author: knm8643 <knm8643@nate.com>
+Date:   Tue Jan 11 12:09:33 2022 +0900
+
+    이충재 커밋요청 확인
+
+[33mcommit fc9e606f1d5e70f2158657e3a011a71a47c99d1d[m[33m ([m[1;31mforked/master[m[33m)[m
+Author: 11hertz <reachzin@naver.com>
+Date:   Tue Jan 11 12:06:33 2022 +0900
+
+    STJ Controller Added
+
+[33mcommit b5400318afa6c056b6dc873168c34aeee0fb471b[m
+Author: Jpvep <gunhee1120@naver.com>
+Date:   Tue Jan 11 12:05:31 2022 +0900
+
+    JGH Controller Added
+
+[33mcommit 97877ee228722ce51152bddd734777f6e3ba4233[m
+Author: HoHyun95 <suhoh01@naver.com>
+Date:   Tue Jan 11 11:23:29 2022 +0900
+
+    gitignore update
+
+[33mcommit ebbd0c073985a8570c09453e693494616213d362[m
+Author: HoHyun95 <suhoh01@naver.com>
+Date:   Tue Jan 11 10:10:03 2022 +0900
+
+    initialize Commit
